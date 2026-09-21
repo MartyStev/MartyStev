@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" width="100%" height="100%" style="background:#0b0f19; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; border-radius:12px; border:1px solid #1e293b;">
+  <!-- Header Bar -->
+  <rect x="0" y="0" width="1000" height="50" fill="#131b2e" rx="12"/>
+  <circle cx="30" cy="25" r="6" fill="#ef4444"/>
+  <circle cx="50" cy="25" r="6" fill="#f59e0b"/>
+  <circle cx="70" cy="25" r="6" fill="#10b981"/>
+  <text x="100" y="30" fill="#94a3b8" font-size="14" font-weight="600">🌌 OctaSQL Deductive Explorer — Live Evidence Graph &amp; What-If Simulation</text>
+  <rect x="850" y="14" width="120" height="24" rx="12" fill="#10b981" fill-opacity="0.15"/>
+  <text x="910" y="30" fill="#10b981" font-size="12" font-weight="700" text-anchor="middle">● ZERO HALLUCINATION</text>
+
+  <!-- Sidebar -->
+  <rect x="20" y="70" width="220" height="390" fill="#172033" rx="8"/>
+  <text x="35" y="100" fill="#6366f1" font-size="12" font-weight="700">DWH DATABASES (8/8 ONLINE)</text>
+  
+  <rect x="35" y="115" width="190" height="32" rx="6" fill="#1e293b"/>
+  <text x="45" y="136" fill="#e2e8f0" font-size="13">🐘 Postgres Retail_DWH</text>
+  <rect x="35" y="155" width="190" height="32" rx="6" fill="#1e293b"/>
+  <text x="45" y="176" fill="#e2e8f0" font-size="13">🟡 ClickHouse Analytics</text>
+  <rect x="35" y="195" width="190" height="32" rx="6" fill="#1e293b"/>
+  <text x="45" y="216" fill="#e2e8f0" font-size="13">🦆 DuckDB State Fabric</text>
+  
+  <text x="35" y="260" fill="#6366f1" font-size="12" font-weight="700">AST SECURITY SANDBOX</text>
+  <rect x="35" y="275" width="190" height="60" rx="6" fill="#0f172a"/>
+  <text x="45" y="295" fill="#34d399" font-size="11" font-family="monospace">✔ Read-Only Perimeter</text>
+  <text x="45" y="315" fill="#34d399" font-size="11" font-family="monospace">✔ AST Validation PASS</text>
+  <text x="45" y="325" fill="#94a3b8" font-size="10" font-family="monospace">Tokens: 1,240 (95% saved)</text>
+
+  <rect x="35" y="355" width="190" height="85" rx="6" fill="#1e1b4b" stroke="#4f46e5" stroke-width="1"/>
+  <text x="45" y="375" fill="#c7d2fe" font-size="12" font-weight="600">MCP Server Status</text>
+  <text x="45" y="395" fill="#a5b4fc" font-size="11">JSON-RPC 2.0 Active</text>
+  <text x="45" y="415" fill="#818cf8" font-size="11">Claude Desktop &amp; Cursor</text>
+
+  <!-- Main Workspace -->
+  <rect x="260" y="70" width="715" height="390" fill="#0f172a" rx="8"/>
+
+  <!-- Query Header -->
+  <rect x="280" y="90" width="675" height="45" rx="8" fill="#1e293b" stroke="#334155"/>
+  <text x="300" y="117" fill="#f8fafc" font-size="14" font-weight="600">🔍 Query: "Why did Q3 revenue in Siberia drop by 14%?"</text>
+  <rect x="850" y="100" width="90" height="26" rx="4" fill="#6366f1"/>
+  <text x="895" y="117" fill="#ffffff" font-size="12" font-weight="700" text-anchor="middle">DEDUCE ⚡</text>
+
+  <!-- Shapley Factor Attribution Chart -->
+  <rect x="280" y="150" width="320" height="290" fill="#172033" rx="8"/>
+  <text x="300" y="175" fill="#818cf8" font-size="13" font-weight="700">SHAPLEY FACTOR ATTRIBUTION</text>
+
+  <text x="300" y="205" fill="#cbd5e1" font-size="12">Logistics Delays (-68.4%)</text>
+  <rect x="300" y="215" width="280" height="18" rx="4" fill="#334155"/>
+  <rect x="300" y="215" width="190" height="18" rx="4" fill="#f87171"/>
+  <text x="495" y="229" fill="#ffffff" font-size="11" font-weight="700">-$2.34M</text>
+
+  <text x="300" y="255" fill="#cbd5e1" font-size="12">Regional Promo Discount (-21.1%)</text>
+  <rect x="300" y="265" width="280" height="18" rx="4" fill="#334155"/>
+  <rect x="300" y="265" width="60" height="18" rx="4" fill="#fb923c"/>
+  <text x="365" y="279" fill="#ffffff" font-size="11" font-weight="700">-$0.72M</text>
+
+  <text x="300" y="305" fill="#cbd5e1" font-size="12">Customer Churn (-10.5%)</text>
+  <rect x="300" y="315" width="280" height="18" rx="4" fill="#334155"/>
+  <rect x="300" y="315" width="30" height="18" rx="4" fill="#facc15"/>
+  <text x="335" y="329" fill="#ffffff" font-size="11" font-weight="700">-$0.36M</text>
+
+  <rect x="300" y="350" width="280" height="70" rx="6" fill="#0f172a" stroke="#1e293b"/>
+  <text x="310" y="370" fill="#38bdf8" font-size="11" font-weight="600">💡 Causal Synthesis Engine:</text>
+  <text x="310" y="390" fill="#94a3b8" font-size="11">Logistics delay increased lead time from 3 to 11 days</text>
+  <text x="310" y="405" fill="#94a3b8" font-size="11">triggering $2.34M unfulfilled regional orders.</text>
+
+  <!-- Evidence Graph -->
+  <rect x="615" y="150" width="340" height="290" fill="#172033" rx="8"/>
+  <text x="635" y="175" fill="#34d399" font-size="13" font-weight="700">EVIDENCE DAG GRAPH &amp; STATE CELLS</text>
+
+  <circle cx="785" cy="220" r="28" fill="#312e81" stroke="#6366f1" stroke-width="2"/>
+  <text x="785" y="224" fill="#ffffff" font-size="10" font-weight="700" text-anchor="middle">Revenue -14%</text>
+
+  <line x1="765" y1="242" x2="715" y2="288" stroke="#475569" stroke-width="2"/>
+  <line x1="805" y1="242" x2="855" y2="288" stroke="#475569" stroke-width="2"/>
+
+  <circle cx="700" cy="305" r="24" fill="#1e3a8a" stroke="#3b82f6" stroke-width="2"/>
+  <text x="700" y="309" fill="#ffffff" font-size="9" font-weight="700" text-anchor="middle">Siberia DWH</text>
+
+  <circle cx="870" cy="305" r="24" fill="#064e3b" stroke="#10b981" stroke-width="2"/>
+  <text x="870" y="309" fill="#ffffff" font-size="9" font-weight="700" text-anchor="middle">DuckDB Cell</text>
+
+  <line x1="700" y1="330" x2="700" y2="365" stroke="#475569" stroke-width="2"/>
+  <circle cx="700" cy="385" r="20" fill="#7f1d1d" stroke="#ef4444" stroke-width="2"/>
+  <text x="700" y="388" fill="#ffffff" font-size="8" text-anchor="middle">Supply SLA</text>
+
+  <line x1="870" y1="330" x2="870" y2="365" stroke="#475569" stroke-width="2"/>
+  <circle cx="870" cy="385" r="20" fill="#701a75" stroke="#d946ef" stroke-width="2"/>
+  <text x="870" y="388" fill="#ffffff" font-size="8" text-anchor="middle">What-If +5%</text>
+</svg>
