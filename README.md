@@ -4,7 +4,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/MartyStev?style=for-the-badge&logo=github&color=6E56CF)](https://github.com/MartyStev)
 [![Website Live](https://img.shields.io/badge/Website-OctaSQL%20Demo-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://martystev.github.io/octasql-landing/)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/martystev)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://tg.stigione.netcraze.link)
 
 <p align="center">
   <b>Architecting enterprise data pipelines, robust DWHs, and *AI*-native data infrastructure.</b>
@@ -142,6 +142,7 @@ DevOps & Infrastructure: Docker, Docker Compose, GitHub Actions (CI/CD), Linux, 
 
 ## 📬 Connect with Me
 
+* 💬 **Telegram:** [tg.stigione.netcraze.link](https://tg.stigione.netcraze.link)
 * 🌐 **OctaSQL Landing Page:** [martystev.github.io/octasql-landing](https://martystev.github.io/octasql-landing/)
 * 🐙 **GitHub Profile:** [github.com/MartyStev](https://github.com/MartyStev)
 
