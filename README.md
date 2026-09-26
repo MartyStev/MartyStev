@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I am a **Data Engineer & *AI* Data Platform Architect** specializing in building reliable enterprise data warehouses (**Google BigQuery**, **ClickHouse**, **PostgreSQL**, **SAP HANA**), production ETL/ELT pipelines orchestrated with **Apache Airflow**, algorithmic scoring engines (Lead Heat Scoring), and **AI**-native data tooling. 
+I am a **Data Engineer & *AI* Data Platform Architect** specializing in building reliable enterprise data warehouses (**Google BigQuery**, **ClickHouse**, **PostgreSQL**, **MS SQL**, **SAP HANA**), production ETL/ELT pipelines orchestrated with **Apache Airflow**, algorithmic scoring engines (Lead Heat Scoring), and **AI**-native data tooling. 
 
 My work bridges traditional data engineering with modern *AI* agent ecosystems — building zero-hallucination *AI* analytics runtimes, Model Context Protocol (*MCP*) integrations, and *AI*-driven automation workflows.
 
