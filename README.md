@@ -20,7 +20,7 @@ I am a **Data Engineer & *AI* Data Platform Architect** specializing in building
 
 My work bridges traditional data engineering with modern *AI* agent ecosystems — building zero-hallucination *AI* analytics runtimes, Model Context Protocol (*MCP*) integrations, and *AI*-driven automation workflows.
 
-* 🔭 **Currently building:** [OctaSQL](https://github.com/MartyStev/octasql-landing) &amp; [ClawMux](https://github.com/MartyStev/ClawMux)
+* 🔭 **Currently building:** [OctaSQL](https://github.com/MartyStev/octasql-landing), [ClawMux](https://github.com/MartyStev/ClawMux) &amp; [pg_mcp_qauth](https://github.com/MartyStev/pg_mcp_qauth)
 * ⚡ **Core focus:** Enterprise DWH Architecture, Apache Airflow DAG Factories, *AI*-Native Data Platforms, Causal &amp; Shapley Factor Attribution, Model Context Protocol (*MCP*)
 * 💬 **Ask me about:** BigQuery &amp; ClickHouse Data Pipelines, Airflow Orchestration, *AI* Text-to-SQL without hallucinations, Omni-Channel *AI* Messaging Integration
 
@@ -56,6 +56,22 @@ My work bridges traditional data engineering with modern *AI* agent ecosystems �
       </ul>
       <p align="center">
         <a href="https://github.com/MartyStev/ClawMux"><b>View ClawMux Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3 align="center">🔐 pg_mcp_qauth</h3>
+      <p align="center"><i>OAuth 2.1-Secured Postgres MCP Server with Role &amp; Row-Level Isolation</i></p>
+      <p>A Model Context Protocol resource server that lets *AI* agents (Claude Code, VS Code) query PostgreSQL safely: JWTs from your own Keycloak/Authentik broker Google, Microsoft, GitHub and AD logins, while access is enforced by real Postgres mechanics.</p>
+      <ul>
+        <li><b>OAuth 2.1 Resource Server:</b> RFC 9728 discovery, JWKS validation, pinned audience &amp; asymmetric algorithm (anti token-passthrough).</li>
+        <li><b>Three-Tier Access:</b> schema/table via <code>GRANT</code>s under <code>SET LOCAL ROLE</code>, rows via RLS session variables.</li>
+        <li><b>AST SQL Guard:</b> <code>sqlglot</code>-parsed read-only enforcement with round-trip token integrity.</li>
+        <li><b>Verified E2E:</b> browser PKCE sign-in flows against a real Keycloak 26; CI matrix on Python 3.11–3.13.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/MartyStev/pg_mcp_qauth"><b>View pg_mcp_qauth Repository →</b></a>
       </p>
     </td>
   </tr>
