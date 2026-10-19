@@ -108,7 +108,7 @@ My work bridges traditional data engineering with modern *AI* agent ecosystems �
 ```
 
 #### 📊 OctaSQL Explorer Web UI Preview
-![OctaSQL Interactive Dashboard](docs/assets/octasql-ui-preview.svg)
+![OctaSQL — Deterministic Deductive Intelligence](docs/assets/octasql-og-preview.png)
 
 > 💡 *Explore live evidence graphs, factor drill-downs, and counterfactual What-If scenarios in real time at [martystev.github.io/octasql-landing](https://martystev.github.io/octasql-landing/).*
 
