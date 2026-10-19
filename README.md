@@ -132,6 +132,13 @@ Isolated Per-User OpenClaw Workspaces (Workspace #101, Workspace #102, ...)
 #### ⚙️ ClawMux Multi-User Control Plane Preview
 ![ClawMux Omni-Channel Control Plane](docs/assets/clawmux-ui-preview.svg)
 
+## 🧰 More Projects
+
+* [LentaBox](https://github.com/MartyStev/LentaBox) — Telegram userbot that deduplicates news across your channels and posts each story once (Python)
+* [NoteObs](https://github.com/MartyStev/NoteObs) — seven quick Markdown notes in the macOS menu bar, stored in any folder (Swift)
+* [MotionSentinel](https://github.com/MartyStev/MotionSentinel) — Android motion alarm for bikes and cars with Telegram alerts and GPS (Kotlin)
+* [SmsPigeon](https://github.com/MartyStev/SmsPigeon) — Android app that forwards SMS to Telegram via your own bot (Kotlin)
+
 ---
 
 ## 🛠️ Technical Stack &amp; Tools
